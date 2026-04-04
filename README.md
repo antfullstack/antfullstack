@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Typescript/Javascript developer. <br>I am currently working on web development projects.<br>I am happy to cooperate on open source and help other devs.<br>I like cooperating with others and exchanging ideas. 
+I am a Typescript/Javascript and Python developer. <br>I am currently working on web development and scientific projects.<br>I am happy to cooperate on open source and help other devs.<br>I like cooperating with others and exchanging ideas. 
 
 
 # 💻 Tech Stack:
